@@ -17,6 +17,7 @@
 - [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 - [![repo Size](https://img.shields.io/github/repo-size/SUBHxTREM/OverLoadVC?style=plastic&color=red)](https://github.com/SUBHxTREM/OverLoadVC/) 
 - [![Owner](https://img.shields.io/badge/-OWNER%20--SUBHxTREM-red)](https://github.com/SUBHxTREM)
+- [![licence](https://img.shields.io/badge/-LICENSE%20--GNU General Public License v3.0-blueviolet)](https://github.com/SUBHxTREM/OverLoadVC/blob/main/LICENSE)
   
 ## 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚒𝚗𝚏𝚘📨..
 - [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic-badge&logo=telegram&logoColor=white)](https://t.me/SUBHxTREM)
