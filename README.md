@@ -3,7 +3,6 @@ AN AMAZING USERBOT THAT CAN PLAY MUSIC IN GROUP VC....
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/SUBHxTREM/OverLoadVC)
-[![HitCount](http://hits.dwyl.com/SUBHxTREM/7002395208/.svg)](http://hits.dwyl.com/SUBHxTREM/7002395208)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/HARAMI_BACHA_HU_SAMBHAL_KAR)
 
 ## Deployment 🔰
