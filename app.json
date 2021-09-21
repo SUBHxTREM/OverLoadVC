@@ -1,7 +1,7 @@
 {
     "name": "OverLoadVC Bot",
-    "description": "An Amazing userbot that can play songs on telegram group's voice chat.",
-    "logo": "https://telegra.ph/file/3f2400fa5eeec4ba0a80d.jpg",
+    "description": "A userbot that can play songs in telegram group's voice chats.",
+    "logo": "https://telegra.ph/file/4414421c401a9b604267b.jpg",
     "keywords": [
         "Music",
         "VC Player",
@@ -10,18 +10,18 @@
     ],
     "website": "https://github.com/SUBHxTREM",
     "repository": "https://github.com/SUBHxTREM/https://OverLoadVC",
-    "success_url": "",
+    "success_url": "https://t.me/official_learning_zone",
     "env": {
         "STRING_SESSION": {
             "description": "Your pyrogram string session from https://replit.com/@SpEcHiDe/GenerateStringSession",
             "value": ""
         },
         "API_HASH": {
-            "description": "Get this value from my.telegram.org",
+            "description": "Your API Hash from my.telegram.org",
             "value": ""
         },
         "APP_ID": {
-            "description": "Get this value from my.telegram.org",
+            "description": "Your APP ID from my.telegram.org",
             "value": ""
         }
     },
