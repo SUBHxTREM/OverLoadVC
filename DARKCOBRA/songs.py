@@ -51,7 +51,7 @@ async def WooMai(netase):
           except YouBlockedUserError:
               await netase.edit("```Please unblock @WooMaiBot and try again```")
               return
-          await netase.edit("`Sending Your Music...weit!😎`")
+          await netase.edit("`Sending Your Music...weit👽`")
           await asyncio.sleep(3)
           await bot.send_file(netase.chat_id, respond)
     await netase.client.delete_messages(conv.chat_id,
@@ -121,7 +121,7 @@ async def FindMusicPleaseBot(gaana):
 
     async with bot.conversation(chat) as conv:
 
-        await gaana.edit("`Downloading...Please wait`")
+        await gaana.edit("`Downloading...Please wait👽`")
 
         try:
 
