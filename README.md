@@ -20,4 +20,4 @@ AN AMAZING USERBOT THAT CAN PLAY MUSIC IN GROUP VC....
 ## Contact info📨..
 - [![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/SUBHxTREM)
 - [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic-badge&logo=instagram&logoColor=white)](https://instagram.com/__subh_xd__?utm_medium=copy_link)
-- ![gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic-badge&logo=gmail&logoColor=white)]()
+- ![gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic-badge&logo=gmail&logoColor=white)
