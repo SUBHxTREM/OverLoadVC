@@ -14,9 +14,8 @@
 
 
 ## About the Project ✳️ 
-
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUBHxTREM&layout=compact&theme=blue-green)](https://github.com/SUBHxTREM/OverLoadVC)
-[![repo Size](https://img.shields.io/github/repo-size/SUBHxTREM/OverLoadVC?style=plastic&color=red)](https://github.com/SUBHxTREM/OverLoadVC/)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) -
+[![repo Size](https://img.shields.io/github/repo-size/SUBHxTREM/OverLoadVC?style=plastic&color=red)](https://github.com/SUBHxTREM/OverLoadVC/) - 
 [![Owner](https://img.shields.io/badge/-OWNER%20--SUBHxTREM-red)](https://github.com/SUBHxTREM)
   
 ## Contact info📨..
