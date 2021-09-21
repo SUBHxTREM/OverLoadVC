@@ -32,10 +32,9 @@
 
 ## 𝙰𝚋𝚘𝚞𝚝 𝚝𝚑𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝✳️ 
 - [![Owner](https://img.shields.io/badge/-OWNER%20--SUBHxTREM-red)](https://github.com/SUBHxTREM)
-- [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 - [![repo Size](https://img.shields.io/github/repo-size/SUBHxTREM/OverLoadVC?style=plastic&color=red)](https://github.com/SUBHxTREM/OverLoadVC/) 
 - [![licence](https://img.shields.io/badge/LICENSE-GNU%20v3.0-blue)](https://github.com/SUBHxTREM/OverLoadVC/blob/main/LICENSE)
-  
+- [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ## 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚒𝚗𝚏𝚘📨..
 - [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic-badge&logo=telegram&logoColor=white)](https://t.me/SUBHxTREM)
 - [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic-badge&logo=instagram&logoColor=white)](https://instagram.com/__subh_xd__?utm_medium=copy_link)
