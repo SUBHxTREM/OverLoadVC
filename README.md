@@ -11,7 +11,7 @@
                               our official telegram channel
 
 -->
-<details>
+<small tut>
 
 #  <summary> • 𝚂𝚖𝚊𝚕𝚕 𝚝𝚞𝚝 • </summary>
 
@@ -19,7 +19,7 @@
 
   [![𝚂𝚖𝚊𝚕𝚕 𝚝𝚞𝚝](https://img.shields.io/badge/-%F0%9D%9A%82%F0%9D%9A%96%F0%9D%9A%8A%F0%9D%9A%95%F0%9D%9A%95%20%F0%9D%9A%9D%F0%9D%9A%9E%F0%9D%9A%9D-orange)](https://t.me/OverLoadVC/4)
 
-</details>
+</small tut>
 
 ## 𝙳𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝🔰
 
