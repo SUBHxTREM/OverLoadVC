@@ -19,7 +19,7 @@ AN AMAZING USERBOT THAT CAN PLAY MUSIC IN GROUP VC....
 [![Owner](https://img.shields.io/badge/-OWNER%20--SUBHxTREM-red)](https://github.com/SUBHxTREM)
   
 ## Contact info📨..
-- [![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/SUBHxTREM)
+- [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic-badge&logo=telegram&logoColor=white)](https://t.me/SUBHxTREM)
 - [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic-badge&logo=instagram&logoColor=white)](https://instagram.com/__subh_xd__?utm_medium=copy_link)
 - ![gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic-badge&logo=gmail&logoColor=white)
 
