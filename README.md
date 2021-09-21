@@ -11,3 +11,13 @@ AN AMAZING USERBOT THAT CAN PLAY MUSIC IN GROUP VC....
 
 ### String Session 🔰
 [![Generate your Session](https://img.shields.io/badge/Replit-Click%20here%20to%20generate%20you%20String--Session-yellowgreen)](https://replit.com/@SpEcHiDe/GenerateStringSession)
+
+
+<details>
+
+  <summary>✳️ About the Project ✳️</summary>
+
+[![repo Size](https://img.shields.io/github/repo-size/SUBHxTREM/OverLoadVC?style=plastic&color=red)](https://github.com/SUBHxTREM/OverLoadVC/)
+[![Owner](https://img.shields.io/badge/-OWNER%20--SUBHxTREM-red)](https://github.com/SUBHxTREM)
+  
+</details>
