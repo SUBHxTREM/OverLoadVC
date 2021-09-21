@@ -14,9 +14,9 @@
 
 
 ## About the Project ✳️ 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) -
-[![repo Size](https://img.shields.io/github/repo-size/SUBHxTREM/OverLoadVC?style=plastic&color=red)](https://github.com/SUBHxTREM/OverLoadVC/) - 
-[![Owner](https://img.shields.io/badge/-OWNER%20--SUBHxTREM-red)](https://github.com/SUBHxTREM)
+- [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
+- [![repo Size](https://img.shields.io/github/repo-size/SUBHxTREM/OverLoadVC?style=plastic&color=red)](https://github.com/SUBHxTREM/OverLoadVC/) 
+- [![Owner](https://img.shields.io/badge/-OWNER%20--SUBHxTREM-red)](https://github.com/SUBHxTREM)
   
 ## Contact info📨..
 - [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=plastic-badge&logo=telegram&logoColor=white)](https://t.me/SUBHxTREM)
