@@ -10,7 +10,7 @@
     ],
     "website": "https://github.com/SUBHxTREM",
     "repository": "https://github.com/SUBHxTREM/https://OverLoadVC",
-    "success_url": "https://github.com/SUBHxTREM",
+    "success_url": "",
     "env": {
         "STRING_SESSION": {
             "description": "Your pyrogram string session from https://replit.com/@SpEcHiDe/GenerateStringSession",
