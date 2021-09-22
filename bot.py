@@ -58,10 +58,13 @@ async def start(client, message):
         disable_web_page_preview=True
 
 #command list
-@app.on_message(filters.command('cmdlist'))
-async def start(client, message):
-    await message.reply("💣.",
-                        disable_web_page_preview=True)
+@app.on_message(filters.command("cmdlist"))
+async def command(client, message):
+    await message.reply_text(
+        text=f"available commands -   {message.from_user.mention},\n 💣",
+        disable_web_page_preview=True
+        
+        
 # ping checker
 @app.on_message(filters.command('ping') & self_or_contact_filter)
 async def ping(client, message):
