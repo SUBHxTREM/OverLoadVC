@@ -175,6 +175,9 @@ async def deezer(_, message):
     os.remove(song)
     await hike.delete()
 
+     
+
+#to play music on vc
 @app.on_message(filters.command('play') & self_or_contact_filter)
 async def play_track(client, message):
     if not message.reply_to_message or not message.reply_to_message.audio:
