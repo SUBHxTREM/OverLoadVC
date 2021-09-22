@@ -199,7 +199,7 @@ async def leave_voice_chat(client, message):
     await message.reply('Left Voice Chat ✅')
 
 app.start()
-print('>>>  OverLoadVC Bot ACTIVATED ')
+print('>>>  OverLoadVC Bot ACTIVATED😎 /n Thank you for using our Bot❤')
 idle()
 app.stop()
-print('\n>>>  OverLoadVC Bot STOPPED')
+print('\n>>>  OverLoadVC Bot STOPPED⚠️')
