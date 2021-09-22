@@ -86,14 +86,8 @@ async def start(client, message):
     await message.reply_text(
         text=f"Hello {message.from_user.mention},\n...I'm OverLoadVC bot 🎵\n\nI'm Here To Play Music On Voice Chat Via UserBot👽... \n\n Now do /cmdlist to get the list of all commands...💣",
         disable_web_page_preview=True
-
-#command list
-@app.on_message(filters.command("cmdlist"))
-async def command(client, message):
-    await message.reply_text(
-        text=f"available commands - {message.from_user.mention},\n 💣",
-        disable_web_page_preview=True
-        
+     
+#command list (soon)
 
      
 # ping checker
