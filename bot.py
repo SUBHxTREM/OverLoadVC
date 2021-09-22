@@ -9,6 +9,33 @@ import wget
 import aiohttp
 from random import randint
 import aiofiles
+from telegram import ParseMode, InlineKeyboardMarkup, InlineKeyboardButton
+
+'''
+
+HELP_STRINGS = """
+
+Hello! my name is OverLoadVC Bot.
+
+*Main* available commands:
+
+ - /start: To check the Bot is active or not...
+ 
+ - /ping: Check the ping...
+ 
+ - /help: help....
+ 
+ - /joinvc: To join Vc in the respected group..
+ 
+ - /leavevc: To leave the Vc in the respected group..
+
+ - /play: To play song in Vc by replying /play to the song file...
+
+ - /stopvc: To stop playing music on voice chat...
+
+{]
+
+'''
 
 VOICE_CHATS = {}
 DEFAULT_DOWNLOAD_DIR = 'downloads/vcbot/'
@@ -61,7 +88,7 @@ async def start(client, message):
 @app.on_message(filters.command("cmdlist"))
 async def command(client, message):
     await message.reply_text(
-        text=f"available commands -   {message.from_user.mention},\n 💣",
+        text=f"available commands - {message.from_user.mention},\n 💣",
         disable_web_page_preview=True
         
         
