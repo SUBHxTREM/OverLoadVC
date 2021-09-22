@@ -49,12 +49,13 @@ def get_arg(message):
         return ""
     return " ".join(split[1:])
 
-# start message
-@app.on_message(filters.command('start'))
+
+#start message
+@app.on_message(filters.command("start"))
 async def start(client, message):
-    await message.reply("Hello, I'm OverLoadVC bot 🎵\n\nI'm Here To Play Music On Voice Chat Via UserBot👽... \n\n Now do /cmdlist to get the list of all commands...💣.",
-                        disable_web_page_preview=True)
-   
+    await message.reply_text(
+        text=f"Hello {message.from_user.mention},\n...I'm OverLoadVC bot 🎵\n\nI'm Here To Play Music On Voice Chat Via UserBot👽... \n\n Now do /cmdlist to get the list of all commands...💣",
+        disable_web_page_preview=True
 
 #command list
 @app.on_message(filters.command('cmdlist'))
