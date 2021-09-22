@@ -86,16 +86,7 @@ async def start(client, message):
     await message.reply_text(
         text=f"Hello {message.from_user.mention},\n...I'm OverLoadVC bot 🎵\n\nI'm Here To Play Music On Voice Chat Via UserBot👽... \n\n Now do /cmdlist to get the list of all commands...💣",
         disable_web_page_preview=True
-'''
-# do not async
-def send_help(chat_id, text, keyboard=None):
-    if not keyboard:
-        keyboard = InlineKeyboardMarkup(paginate_modules(0, HELPABLE, "help"))
-    dispatcher.bot.send_message(chat_id=chat_id,
-                                text=text,
-                                parse_mode=ParseMode.MARKDOWN,
-                                reply_markup=keyboard)
-'''
+
 #command list
 @app.on_message(filters.command("cmdlist"))
 async def command(client, message):
