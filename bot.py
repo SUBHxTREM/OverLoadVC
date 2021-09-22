@@ -56,8 +56,8 @@ async def start(client, message):
     await message.reply_text(
         text=f"Hello {message.from_user.mention},\n...I'm OverLoadVC bot 🎵\n\nI'm Here To Play Music On Voice Chat Via UserBot👽... \n\n Now do /cmdlist to get the list of all commands...💣",
         disable_web_page_preview=True
-
-# ping checker
+'''
+# ping checker( coming soon)
 @app.on_message(filters.command('ping') & self_or_contact_filter)
 async def ping(client, message):
     start = datetime.now()
@@ -65,7 +65,7 @@ async def ping(client, message):
     end = datetime.now()
     m_s = (end - start).microseconds / 1000
     await tauk.edit(f'**pingi Pongi speed is**\n> `{m_s} ms`')
-
+'''
 # jiosaavn song download
 @app.on_message(filters.command('saavn') & self_or_contact_filter)
 async def song(client, message):
