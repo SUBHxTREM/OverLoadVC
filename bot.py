@@ -33,9 +33,12 @@ Hello! my name is OverLoadVC Bot.
 
  - /stopvc: To stop playing music on voice chat...
 
-{]
+{}
+And the following:
+""".format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
 '''
+
 
 VOICE_CHATS = {}
 DEFAULT_DOWNLOAD_DIR = 'downloads/vcbot/'
