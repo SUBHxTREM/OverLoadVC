@@ -52,9 +52,15 @@ def get_arg(message):
 # start message
 @app.on_message(filters.command('start'))
 async def start(client, message):
-    await message.reply("Hello, I'm OverLoadVC bot 🎵\n\nI'm Here To Play Music On Voice Chat Via UserBot👽.",
+    await message.reply("Hello, I'm OverLoadVC bot 🎵\n\nI'm Here To Play Music On Voice Chat Via UserBot👽... \n\n Now do /cmdlist to get the list of all commands...💣.",
                         disable_web_page_preview=True)
+   
 
+#command list
+@app.on_message(filters.command('cmdlist'))
+async def start(client, message):
+    await message.reply("💣.",
+                        disable_web_page_preview=True)
 # ping checker
 @app.on_message(filters.command('ping') & self_or_contact_filter)
 async def ping(client, message):
